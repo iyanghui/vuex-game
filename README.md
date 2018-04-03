@@ -15,3 +15,6 @@ npm run dev
 npm run build
 
 ```
+## 游戏预览
+![image](https://github.com/iyanghui/vuex-game/blob/master/static/game1.png?raw=true)
+![image](https://github.com/iyanghui/vuex-game/blob/master/static/game2.png?raw=true)
